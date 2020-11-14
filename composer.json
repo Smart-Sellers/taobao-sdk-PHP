@@ -1,0 +1,15 @@
+{
+    "name": "spiritfelix/taobao-sdk-php",
+    "description": "taobao-sdk-php downloaded from https://open.taobao.com/",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "spiritfelix",
+            "email": "spiritfelix@gmail.com"
+        }
+    ]
+}
