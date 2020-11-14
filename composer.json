@@ -6,6 +6,7 @@
         "php": "^7.3"
     },
     "license": "MIT",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "spiritfelix",
